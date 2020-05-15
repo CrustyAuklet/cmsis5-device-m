@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
 project(CMSIS
-        VERSION 5.5.0
+        VERSION 5.5.1
         DESCRIPTION "CMSIS 5 Core as a CMake package"
         LANGUAGES C ASM)
 
